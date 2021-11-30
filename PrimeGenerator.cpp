@@ -90,7 +90,8 @@ int main(){
           cout << i << " ";
 
     cout<<endl;
+    cout << "100 Primos diferentes: \n";
     for (int j = 1; j <= 100; j++)
-        cout <<GeneratePrime(10)<< " ";
+        cout<<GeneratePrime(10)<< " ";
 }
 
